@@ -2,7 +2,7 @@
 	"id": "drag-ruler",
 	"title": "Drag Ruler",
 	"description": "When dragging a token displays a ruler showing how far you've moved that token.",
-	"version": "1.13.8",
+	"version": "0.0.1",
 	"compatibility": {
 		"minimum": "11",
 		"verified": "11"
@@ -79,11 +79,11 @@
 		]
 	},
 	"socket": true,
-	"url": "https://github.com/manuelVo/foundryvtt-drag-ruler",
-	"download": "https://github.com/manuelVo/foundryvtt-drag-ruler/archive/v1.13.8.zip",
-	"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json",
-	"readme": "https://github.com/manuelVo/foundryvtt-drag-ruler/blob/master/README.md",
-	"changelog": "https://github.com/manuelVo/foundryvtt-drag-ruler/blob/master/CHANGELOG.md",
-	"bugs": "https://github.com/manuelVo/foundryvtt-drag-ruler/issues",
-	"allowBugReporter": true
+	"url": "https://github.com/chaoticinsignia/foundryvtt-drag-ruler",
+	"download": "https://github.com/chaoticinsignia/foundryvtt-drag-ruler/archive/v0.0.1.zip",
+	"manifest": "https://raw.githubusercontent.com/chaoticinsignia/foundryvtt-drag-ruler/master/module.json",
+	"readme": "https://github.com/chaoticinsignia/foundryvtt-drag-ruler/blob/master/README.md",
+	"changelog": "https://github.com/chaoticinsignia/foundryvtt-drag-ruler/blob/master/CHANGELOG.md",
+	"bugs": "https://github.com/chaoticinsignia/foundryvtt-drag-ruler/issues",
+	"allowBugReporter": false
 }
